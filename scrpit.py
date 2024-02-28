@@ -30,8 +30,3 @@ def Calculator(x,y):
 
 Calculator(4,2)
 Calculator(5,6)
-
-
-
-
-
